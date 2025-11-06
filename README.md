@@ -1,8 +1,8 @@
 ## 🐶 Web Puppy
 
-<img width="1336" height="799" alt="Screenshot 2025-11-06 at 2 49 39 PM" src="https://github.com/user-attachments/assets/31d49a9f-c661-486b-8098-6ff8f43f67a4" />
-
 This is a Chrome extension where a cute little white puppy is always with you in the bottom right corner!
+
+<img width="1336" height="799" alt="Screenshot 2025-11-06 at 2 49 39 PM" src="https://github.com/user-attachments/assets/31d49a9f-c661-486b-8098-6ff8f43f67a4" />
 
 ### How to Install
 
