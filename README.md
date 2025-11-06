@@ -12,7 +12,6 @@ This is a Chrome extension where a cute little white puppy is always with you in
 4. Select this folder `web-puppy`
 5. Done! Now when you visit a webpage, the puppy will appear 🎉
 
-
 ### Features
 
 - ✨ A cute white puppy appears on the bottom right of every webpage
