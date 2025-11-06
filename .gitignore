@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log
+
+# Build / output
+dist/
+build/
+out/
+
+# Extension packaging
+*.crx
+*.zip
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# System
+Thumbs.db
