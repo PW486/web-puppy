@@ -14,13 +14,18 @@ A little white puppy that lives in the corner of your browser.
 
 ## Getting Started
 
-**1. Open** `chrome://extensions` in Chrome
+### Install from the release
 
-**2. Enable** Developer mode (top right)
+1. Download [`web-puppy-v0.1.0.zip`](https://github.com/PW486/web-puppy/releases/download/v0.1.0/web-puppy-v0.1.0.zip) from the [GitHub Release](https://github.com/PW486/web-puppy/releases/tag/v0.1.0).
+2. Extract the ZIP file.
+3. Open `chrome://extensions` in Chrome, or the extensions page in your Chromium-based browser.
+4. Enable **Developer mode**.
+5. Click **Load unpacked** and select the extracted `web-puppy-v0.1.0` folder containing `manifest.json`.
+6. Visit any webpage and meet your puppy 🎉
 
-**3. Click** Load unpacked → Select the `web-puppy` folder
+### Install from source
 
-**4. Done** — Visit any webpage and meet your puppy 🎉
+Open `chrome://extensions`, enable **Developer mode**, click **Load unpacked**, and select the project folder containing `manifest.json`.
 
 ## How it Works
 

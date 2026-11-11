@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Web Puppy",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A cute little white puppy is always with you in the bottom right corner!",
   "permissions": [],
   "content_scripts": [
